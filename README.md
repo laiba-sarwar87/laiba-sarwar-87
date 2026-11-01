@@ -4,7 +4,7 @@
 ### 🚀 My Featured Projects:
 - [⏰ Digital Clock - Live Demo](https://laiba-sarwar87.github.io/Digital-Clock/)
 - [🔐 Login Page - Live Demo](https://laiba-sarwar87.github.io/Login-Page/)
-- [🧠 Quiz App - Live Demo](https://laiba-sarwar87.github.io/Quiz-Chellenge/)
+- [🧠 Quiz App - Live Demo](https://laiba-sarwar87.github.io/Quiz-Challenge/)
 
 
 # 💻 Tech Stack:
