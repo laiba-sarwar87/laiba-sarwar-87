@@ -1,6 +1,10 @@
-# laiba-sarwar87
-# 💫 About Me:
-- 🔭 I'm currently working on building my GitHub portfolio — just shipped a Python Quiz App, and a Weather App is next!<br>- 👯 I'm looking to collaborate on beginner-friendly web development projects<br>- 🤝 I'm looking for help with mastering JavaScript and learning APIs<br>- 🌱 I'm currently learning Pandas for data analysis<br>- 💬 Ask me about HTML, CSS, Javascript, and building projects from scratch<br>- ⚡ Fun fact : I create AI-generated story videos for YouTube in my free time!<br>
+- 🔭 I'm currently working on building my GitHub portfolio — just shipped a Python Quiz App, and a Weather App is next!
+- 👯 I'm looking to collaborate on beginner-friendly web development projects
+- 🤝 I'm looking for help with mastering JavaScript and learning APIs
+- 🌱 I'm currently learning Pandas for data analysis
+- 💬 Ask me about HTML, CSS, Javascript, and building projects from scratch
+- ⚡ Fun fact : I create AI-generated story videos for YouTube in my free time!
+
 ### 🚀 My Featured Projects:
 - [⏰ Digital Clock - Live Demo](https://laiba-sarwar87.github.io/Digital-Clock/)
 - [🔐 Login Page - Live Demo](https://laiba-sarwar87.github.io/Login-Page/)
